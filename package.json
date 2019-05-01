@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ththth0303/server-chat.git"
+    "url": "git+https://github.com/giangndse04639/chat.git"
   },
-  "author": "thangnt",
+  "author": "giangnd",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ththth0303/server-chat/issues"
   },
-  "homepage": "https://github.com/ththth0303/server-chat#readme",
+  "homepage": "https://github.com/giangndse04639/chat/blob/master/README.md",
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.15.4",
